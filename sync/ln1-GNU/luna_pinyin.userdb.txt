@@ -1,0 +1,44 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.10.0
+#@/tick	45
+#@/user_id	ln1-GNU
+ba 	吧	c=1 d=0.810584 t=45
+bi yao 	必要	c=1 d=0.900325 t=45
+bian yu 	便於	c=1 d=0.927743 t=45
+cao zuo 	操作	c=1 d=0.937067 t=45
+chuang jian 	創建	c=3 d=2.83582 t=45
+dao 	到	c=1 d=0.869358 t=45
+de 	的	c=1 d=0.904837 t=45
+fu gai 	覆蓋	c=2 d=1.76086 t=45
+ji xu 	繼續	c=1 d=0.941765 t=45
+jiang 	將	c=1 d=0.856415 t=45
+jiang lai 	將來	c=1 d=0.99005 t=45
+jiao ben 	腳本	c=3 d=2.8595 t=45
+jin xing 	進行	c=1 d=0.932394 t=45
+jiu xiang 	就像	c=1 d=0.843665 t=45
+li 	裏	c=1 d=0.88692 t=45
+lian jie 	鏈接	c=1 d=0.839457 t=45
+liu zhe 	留着	c=1 d=0.985112 t=45
+pei zhi 	配置	c=1 d=0.818731 t=45
+ru guo 	如果	c=1 d=0.873716 t=45
+ruan 	軟	c=1 d=0.83527 t=45
+sha bi 	傻逼	c=1 d=0.806541 t=45
+shang de 	上的	c=1 d=0.847894 t=45
+shen xian 	神仙	c=1 d=0.814647 t=45
+shi 	是	c=2 d=1.82458 t=45
+shi yong 	使用	c=1 d=1 t=45
+wo 	我	c=1 d=0.822835 t=45
+wo qu 	我去	c=1 d=0.802519 t=45
+xian 	先	c=1 d=0.951229 t=45
+xiang 	想	c=1 d=0.826959 t=45
+yi 	以	c=1 d=0.923116 t=45
+yi ge 	一個	c=2 d=1.74503 t=45
+yi yang 	一樣	c=1 d=0.852144 t=45
+zai 	再	c=1 d=0.965605 t=45
+zai ci 	再次	c=1 d=0.995012 t=45
+zhe ge 	這個	c=1 d=0.860708 t=45
+zhi 	只	c=1 d=0.891366 t=45
+zhi xing 	執行	c=1 d=0.97531 t=45
+zhong 	中	c=1 d=0.882497 t=45
